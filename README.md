@@ -35,9 +35,11 @@ No `npm install` needed. Zero dependencies.
 - 📋 Daily session history persists across page reloads via `localStorage`
 - 🗓 History resets automatically on a new calendar day
 - 📱 Fully responsive from 360px phones to 1440px desktops
-
+   
 ---
 
 ## Stack
 
 Vanilla HTML · CSS · JavaScript — no frameworks, no build tooling.
+
+Build on 25 May
