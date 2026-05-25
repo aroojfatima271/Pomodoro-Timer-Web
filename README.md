@@ -42,4 +42,4 @@ No `npm install` needed. Zero dependencies.
 
 Vanilla HTML · CSS · JavaScript — no frameworks, no build tooling.
 
-Build on 25 May
+Build on 25 May 2026
