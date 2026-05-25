@@ -42,4 +42,8 @@ No `npm install` needed. Zero dependencies.
 
 Vanilla HTML · CSS · JavaScript — no frameworks, no build tooling.
 
+##**Live****Demo**
+https://clever-jalebi-f8455e.netlify.app/
 Build on 25 May 2026
+
+
