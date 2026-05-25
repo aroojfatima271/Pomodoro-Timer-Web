@@ -14,7 +14,8 @@ Or serve it locally:
 npx serve .
 # open http://localhost:3000
 ```
-
+Deployment URL:
+https://clever-jalebi-f8455e.netlify.app/
 There is no build step. No `npm install`. Works in any modern browser.
 
 ---
